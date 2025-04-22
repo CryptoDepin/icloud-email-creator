@@ -3,11 +3,9 @@ Automate creation of Icloud.com emails with our auto bot! 🚀 Supports multi-ac
 
 * 🔥 AVAILABLE ONLY paid version
 * 💎 PAID version supports any accounts — register using your own referral code!
-* **📩 DM us for the paid version in Telegram**: 
+* **📩 DM us for the paid version in Telegram**: https://t.me/FAMERS0FT
 
-- 📩 Telegram chat: 
-- 📩 Telegram channel: 
-- 📩 Developer: 
+- 📩 Contacts: https://t.me/FAMERS0FT
 - - -
 **🚀 What can our software do?**
 
@@ -64,6 +62,4 @@ Invite your friends and colleagues to join! 🚀
 * Use option **Get a list of emails** to save created iCloud emails in a txt file.
 
 # 🔗 Contacts
-* 📩 Telegram chat: 
-* 📩 Telegram channel: 
-* 📩 Developer: 
+* 📩 https://t.me/FAMERS0FT
